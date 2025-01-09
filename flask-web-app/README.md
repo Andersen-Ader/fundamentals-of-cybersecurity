@@ -1,6 +1,6 @@
 # Flask Web App
-Andersen Ader
-Application Security Winter '25
+Andersen Ader\
+Application Security Winter '25\
 The Evergreen State College
 
 ## Overview
